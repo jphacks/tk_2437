@@ -1,17 +1,40 @@
-# サンプル（プロダクト名）
+# Nazomate
 
 [![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2024/07/JPHACKS2024_ogp.jpg)](https://www.youtube.com/watch?v=DZXUkEj-CSI)
 
 ## 製品概要
+謎解きイベントに興味はあるが参加したことはない人をメインターゲットとしたWebアプリです
+バックエンドは[別のリポジトリ](https://github.com/kou7306/tk_2437_backend)に分けています。
+
 ### 背景(製品開発のきっかけ、課題等）
+昨今「謎解き」というコンテンツは広まってきており、
+YouTubeやテレビ番組などで存在を知っている人は増えてきています。
+実際、市場規模は年々増加していて、[Forbes JAPANの記事](https://forbesjapan.com/articles/detail/26069)によれば、
+以下の図のように市場規模は急激に拡大しており、現在でも次々と新たな団体が参入するなど広がりを見せています。
+
+[![ForbesJAPANに掲載されている謎解きイベント市場についてのグラフ](https://images.forbesjapan.com/media/article/26069/images/editor/92dc4beff5681c3b8a76179795580094.jpg?w=640)](https://forbesjapan.com/articles/detail/26069)
+
+しかし、未だに謎解きイベントに興味はあるものの参加したことがない人もいます。
+その人たちが感じているハードルとして、以下のようなものがあると考えました。
+- どのようなイベントがあるのか知らない
+- 難易度が高く自分ではできないのではないかという心配がある
+
+
 ### 製品説明（具体的な製品の説明）
+
+
 ### 特長
 #### 1. 特長1
 #### 2. 特長2
 #### 3. 特長3
 
 ### 解決出来ること
+
+
+
 ### 今後の展望
+
+
 ### 注力したこと（こだわり等）
 * 
 * 
